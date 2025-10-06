@@ -25,11 +25,10 @@ The Regulation & Genome Evolution Research group focuses on understanding the dy
 
 # Projects
 
-## CroAGE
-[CroAGE](https://croage.eu/en)
+## Enrichment of the Croatian research system with a methodology for the analysis of 5'-GTP-capped RNA expression as antitumor targets ([CroAGE](https://croage.eu/en))
 
-## PROSPER
-[PROSPER](https://yip-search.embo.org/#/yip/3039)
+
+## PROmoter STRucture and Protist Evolutionary Resilience ([PROSPER](https://yip-search.embo.org/#/yip/3039))
 
 ## DANIO-ReCODE
 [DANIO-ReCODE](https://danio-recode.eu/)
