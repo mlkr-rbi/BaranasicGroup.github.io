@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: RANGER group
+theme:
+  name: material
+  palette:
+    primary: teal
+  font:
+    text: Roboto
+    code: Ubuntu Sans Mono

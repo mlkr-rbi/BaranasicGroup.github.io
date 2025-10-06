@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+Welcome to RANGER group webpage!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+---
 
-## Commands
+# About the RANGER group
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+The Regulation & Genome Evolution Research group aims to
 
-## Project layout
+The PROSPER project will tackle the EvoDevo regulatory challenge, i.e. to uncover new patterns and glean fresh insights into the evolution of cis-regulatory elements, with the help of my newly formed Croatian Evolutionary Regulatory Genomics (croERG) group. To fill a currently vacant niche in the Croatian research system, I have secured funds and formed a research group which will specialises in regulatory and comparative genomics, producing and analysing experimental datasets by employing and developing state-of-the-art computational algorithms, aiming to understand the dynamic gene expression of proliferative stages and tissues in organisms across the tree of life.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+The primary objective of the CroAGE project is to establish an independent research group within the Croatian research system that will focus on regulatory genomics - the study of gene expression regulation mechanisms using large amounts of data obtained through high-throughput methods - and comparative genomics, which examines evolutionary changes and conservation between the genomes of different species. This unique research group will combine computational and experimental methods, filling the current gap in the Croatian research niche and increasing the Croatian research system's international attractiveness, recognition, and visibility (the primary aim of this call). The scientific group will be able to perform the cap analysis of gene expression (CAGE) method at a high level and process the obtained results appropriately in collaboration with groups in the Western European research space working in a similar field to investigate the patterns by which tumours disrupt and modify cooperative multicellular promoter programs, to identify new, potentially commercial anti-tumour targets. Such an approach will achieve the specific goals of the call: A) Development of young researchers' capacities, B) Increasing the international experience of young researchers, and C) Improving the market readiness of research and development results. The CroAGE project's work packages involve generating new and using publicly available CAGE data and advanced application of existing and development of new machine learning methods to investigate:
