@@ -1,8 +1,13 @@
 site_name: RANGER group
 theme:
   name: material
+  language: en
   palette:
     primary: teal
+    accent: amber
+    toggle:
+      icon: material/weather-night
+      name: Switch to dark mode
   font:
     text: Roboto
     code: Ubuntu Sans Mono
