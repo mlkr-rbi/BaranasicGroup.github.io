@@ -1,6 +1,10 @@
 # Welcome to the RANGER Group webpage
 
-The Regulation & Genome Evolution Research group focuses on understanding the dynamic gene expression of proliferative stages and tissues in organisms across the tree of life. The group was established in 2024 at the [Ruđer Bošković Institute (RBI)](https://www.irb.hr/).
+The Regulation & Genome Evolution Research group focuses on understanding the dynamic gene expression of proliferative stages and tissues in organisms across the tree of life. The group was established in 2024 at the [Ruđer Bošković Institute (RBI)](https://www.irb.hr/) within the Laboratory for Computational Biology and Translational Medicine, Division of Electronics.
+
+<br>
+<br>
+<br>
 
 # About us
 ## Group leader
@@ -16,7 +20,8 @@ The Regulation & Genome Evolution Research group focuses on understanding the dy
 
 **Alba Madrero Padro**
 
-# Publications
+<br>
+<br>
 
 # Projects
 
@@ -29,5 +34,12 @@ The Regulation & Genome Evolution Research group focuses on understanding the dy
 ## DANIO-ReCODE
 [DANIO-ReCODE](https://danio-recode.eu/)
 
+<br>
+<br>
+
+# Publications
+
+<br>
+<br>
 
 # Job openings
