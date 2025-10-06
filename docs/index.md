@@ -42,3 +42,7 @@ The Regulation & Genome Evolution Research group focuses on understanding the dy
 <br>
 
 # Job openings
+
+We are always interested in highly motivated applicants. For more information, please contact Damir Baranašić at dbaranas@irb.hr.
+
+# Social networks
