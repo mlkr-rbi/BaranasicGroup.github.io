@@ -53,10 +53,10 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: images/croage_logo_v1_vertical.png
+  favicon: images/logo_2.png
   icon:
     logo: logo
-  logo: images/croage_logo_v1_vertical.png
+  logo: images/logo_1.png
   
 
 nav:
@@ -65,3 +65,6 @@ nav:
   - projects.md
   - publications.md
   - jobOpenings.md
+
+extra_css:
+  - stylesheets/extra.css

@@ -1,15 +1,13 @@
-# About us
+# **About us**
 ## Group leader
- **Damir Baranašić, PhD**
+ Damir Baranašić, PhD
 
 ## Postdoctoral scientist
-**Katarina Kajan, PhD**
+Katarina Kajan, PhD
 
 ## PhD candidates
-**Marta Bošnjaković**
+Marta Bošnjaković, MSc
 
-**Ira Renko**
+Ira Renko, MSc
 
-**Alba Madrero Padro**
-
-![Image title](images/groupPhoto.jpg)
+Alba Madrero Padro, MSc

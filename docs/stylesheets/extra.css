@@ -1,0 +1,11 @@
+p {
+  color: rgba(238, 236, 236, 0.799);
+  font-size: 120%;
+}
+
+.md-content__inner img {
+    min-width: 25%;
+    max-width: 80%;
+    margin: 1em auto;
+    display: block; 
+}
