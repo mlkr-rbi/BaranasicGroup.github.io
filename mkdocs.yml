@@ -53,9 +53,11 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: assets/favicon.png
+  favicon: images/croage_logo_v1_vertical.png
   icon:
     logo: logo
+  logo: images/croage_logo_v1_vertical.png
+  
 
 nav:
   - index.md

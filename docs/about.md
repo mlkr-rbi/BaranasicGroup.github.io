@@ -11,3 +11,5 @@
 **Ira Renko**
 
 **Alba Madrero Padro**
+
+![Image title](images/groupPhoto.jpg)
