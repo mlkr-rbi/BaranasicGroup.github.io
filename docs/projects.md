@@ -4,4 +4,4 @@
 
 ## PROmoter STRucture and Protist Evolutionary Resilience ([PROSPER](https://yip-search.embo.org/#/yip/3039))
 
-## DANIO-ReCODE [DANIO-ReCODE](https://danio-recode.eu/)
+## Decoding transcription regulation in regeneration by advanced genomics and computational tools ([DANIO-ReCODE](https://danio-recode.eu/))
