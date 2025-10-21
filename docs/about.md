@@ -22,6 +22,6 @@ Ira Renko, MSc
 
 ![Image title](images/img_Ira_original.jpg){: .circle }
 
-Alba Madrero Padro, MSc
+Alba Madrero Pardo, MSc
 
 ![Image title](images/img_Alba_original.jpg){: .circle }
